@@ -37,7 +37,7 @@ const About = () => {
           <p>
             {`I’m a software developer with experience at Prologic Solutions, where I developed various web applications. My work ranges from simple websites to complex web apps, always focusing on user experience and quality. I’m skilled in multiple programming languages and always ready to learn new technologies.`}
           </p>
-          <a href={"contact"} className={"btn btn-primary"}>
+          <a href={"#contact"} className={"btn btn-primary"}>
            {` Let's Talk`}
           </a>
         </div>
